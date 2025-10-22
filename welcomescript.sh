@@ -7,3 +7,5 @@ echo "$name, welcome to 312 School!"
 
 
 echo "new unnecessary changes"
+
+echo "new unnecessary changes"
